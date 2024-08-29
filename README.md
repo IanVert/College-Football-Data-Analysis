@@ -1,1 +1,1 @@
-# College-Football-Data-Analysis
+# Analysis of College Football Win Totals
